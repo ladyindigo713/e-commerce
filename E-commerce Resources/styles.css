@@ -124,7 +124,7 @@ button:active {
   display: none;
 }
 
-.menu__backdr
+.menu__backdrop {
   position: absolute;
   background-color: #242424;
   top: 0;
